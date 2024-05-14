@@ -1,0 +1,50 @@
+.cpu-section {
+    display: grid;
+   grid-template-columns: 1fr 30rem;
+
+    text-align: center;
+    padding: 20px;
+    background-color: #f0d8d8;
+}
+
+.cpu-info {
+    text-align: left;
+   width: 25rem;
+
+}
+
+.cpu-info h2 {
+    margin-top: 0 px;   
+    margin-bottom: 10px;
+    margin-left: 30px;
+    
+}
+
+.cpu-info p{
+    margin-left:30px ;
+}
+
+.cpu-image img {
+   
+    height: auto;
+    margin-left: 20px;
+    margin-top: 0rem;
+    width: 15rem;
+}
+
+.listas{
+    display: flex;
+    gap: 10rem;
+    justify-content: center;
+    background-color: #f0d8d8;
+    
+    
+}
+
+.more-info{
+    justify-content: center;
+    display: flex;
+   background-color: rgb(184, 159, 159);
+
+}
+
