@@ -1,4 +1,6 @@
 header {
+    grid-column: 1/3;
+    grid-row: 1/2;
     background-color: #88917f;
     color: white;
     padding: 10px 20px;
