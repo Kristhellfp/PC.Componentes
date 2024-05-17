@@ -1,0 +1,3 @@
+let btn_gpu = document.querySelector (".contenido-gpu")
+
+btn_gpu.innerHTML = ' <h2>GPU</h2> <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, sapiente. Maiores delectus aut odio illo officiis vitae maxime sunt ad perferendis voluptates? Cum autem necessitatibus, eaque sequi neque sit earum.</p></div><div class="gpu-image"><img src="https://hardzone.es/app/uploads-hardzone.es/2020/02/GPU-GTX.jpg" alt=""></div><section><div class="more-infog"><h1>Características de un GPU</h1></div><div class="listasg"><ul><li>No es portátil</li><br><li>Tiene número de núcleos</li><br><li>Su comunicacion es de tipo de us</li></ul><ul><li>No es portátil</li><br><li>Tiene numero de núcleos</li><br><li>Su comunicación es de tipo de us</li></ul></div>';

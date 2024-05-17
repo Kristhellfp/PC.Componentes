@@ -1,0 +1,53 @@
+.contenido-gpu{
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+.tarjeta-section {
+    display: grid;
+   grid-template-columns: 1fr 30rem;
+
+    text-align: center;
+    padding: 20px;
+    background-color: #f0d8d8;
+}
+
+.tarjeta-info {
+    text-align: left;
+   width: 25rem;
+
+}
+
+.tarjeta-info h2 {
+    margin-top: 0 px;   
+    margin-bottom: 10px;
+    margin-left: 30px;
+    
+}
+
+.tarjeta-info p{
+    margin-left:30px ;
+}
+
+.tarjeta-image img {
+   
+    height: auto;
+    margin-left: 20px;
+    margin-top: 0rem;
+    width: 15rem;
+}
+
+.listasr{
+    display: flex;
+    gap: 10rem;
+    justify-content: center;
+    background-color: #f0d8d8;
+    
+    
+}
+
+.more-infor{
+    justify-content: center;
+    display: flex;
+   background-color: rgb(184, 159, 159);
+
+}

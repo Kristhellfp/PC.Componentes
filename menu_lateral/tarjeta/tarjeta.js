@@ -1,0 +1,3 @@
+let btn_tarjeta = document.querySelector (".seccion-tarjeta")
+
+btn_tarjeta.innerHTML = ' <h2>Tarjeta RAM</h2> <p>La RAM le permite que su computadora desempeñe la mayoría de las tareas diarias como cargar aplicaciones, navegar en Internet, editar una hoja de cálculo o probar el juego más reciente.</p></div><div class="tarjeta-image"><img src="https://es.digitaltrends.com/wp-content/uploads/2023/10/cuanta-memoria-ram-es-necesaria.jpeg?p=1" alt=""></div><section><div class="more-infor"><h1>Características de una tarjeta RAM</h1></div><div class="listasr"><ul><li>Voltaje</li><br><li>Compatibilidad</li><br><li>Tipo de memoria</li></ul><ul><li>ECC</li><br><li>Overclocking</li><br><li>Latencia</li></ul></div>';

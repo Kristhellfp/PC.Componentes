@@ -1,8 +1,8 @@
-.seccion1{
+.contenido-unidad{
     grid-column: 2/3;
     grid-row: 2/3;
 }
-.cpu-section {
+.cpu-unidad {
     display: grid;
    grid-template-columns: 1fr 30rem;
 
@@ -11,24 +11,24 @@
     background-color: #f0d8d8;
 }
 
-.cpu-info {
+.unidad-info {
     text-align: left;
    width: 25rem;
 
 }
 
-.cpu-info h2 {
+.unidad-info h2 {
     margin-top: 0 px;   
     margin-bottom: 10px;
     margin-left: 30px;
     
 }
 
-.cpu-info p{
+.unidad-info p{
     margin-left:30px ;
 }
 
-.cpu-image img {
+.unidad-image img {
    
     height: auto;
     margin-left: 20px;
@@ -36,7 +36,7 @@
     width: 15rem;
 }
 
-.listas{
+.listasu{
     display: flex;
     gap: 10rem;
     justify-content: center;
@@ -45,10 +45,9 @@
     
 }
 
-.more-info{
+.more-infou{
     justify-content: center;
     display: flex;
    background-color: rgb(184, 159, 159);
 
 }
-

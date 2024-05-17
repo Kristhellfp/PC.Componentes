@@ -1,0 +1,3 @@
+let btn_gpu = document.querySelector (".contenido-madre")
+
+btn_gpu.innerHTML = ' <h2>Tarjeta Madre</h2> <p>La tarjeta madre es la columna vertebral que une los componentes de la computadora en un mismo punto y les permite comunicarse entre sí. Sin ella, ninguna de las piezas de la computadora, como el CPU, la GPU o el disco duro, podrían interactuar.</p></div><div class="madre-image"><img src="https://hardzone.es/app/uploads-hardzone.es/2020/02/GPU-GTX.jpg" alt=""></div><section><div class="more-infom"><h1>Características de la Tarjeta Madre </h1></div><div class="listasm"><ul><li>Conectores de E/S</li><br><li>Conectores de almacenamiento</li><br><li>Gestión de energía</li></ul><ul><li>Ranuras de memoria</li><br><li>Chipset</li><br><li>Factor de forma</li></ul></div>';

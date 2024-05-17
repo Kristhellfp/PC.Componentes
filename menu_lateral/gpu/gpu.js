@@ -1,0 +1,4 @@
+let btn_gpu = document.querySelector (".contenido-gpu")
+
+btn_gpu.innerHTML = ' <h2>GPU</h2> <p>GPU es el acrónimo de Graphics Processing Unit y representa precisamente el corazón de una tarjeta gráfica al igual que la CPU lo hace en un PC. Aparte del corazón, también es su cerebro, ya que es la encargada de realizar todos los cálculos complejos que nos permiten disfrutar de nuestros juegos en pantalla.</p></div><div class="gpu-image"><img src="https://hardzone.es/app/uploads-hardzone.es/2020/02/GPU-GTX.jpg" alt=""></div><section><div class="more-infog"><h1>Características de un GPU</h1></div><div class="listasg"><ul><li>Núcleos de procesamiento</li><br><li>Ancho de banda de memoria</li><br><li>API de gráficos compatibles</li></ul><ul><li>Consumo de energía</li><br><li>Cálculos de precisión</li><br><li>Arquitectura de shader</li></ul></div>';
+
