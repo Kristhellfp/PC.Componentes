@@ -7,10 +7,9 @@ let header = document.querySelector (".header")
      <button>info</button>
      <button>Contacto</button>
  </div>
- <div class="busqueda">
-     <input type="text" placeholder="Buscar...">
-     <span class="material-symbols-outlined">
-search
+ <div class="repo">
+     <a href="https://github.com/Kristhellfp/PC.Componentes" class="boton-repo">Ver Repositorio</a>
+
 </span>
  </div>
 `;
